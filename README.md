@@ -1,11 +1,11 @@
 # Input & Output Switcher
 
-Tiny Windows 11 desktop utility for switching the default audio output and microphone.
+Tiny Windows 11 desktop utility for instantly switching the default audio output and microphone.
 
 ## Features
 
-- Switch the default output device.
-- Switch the default input device.
+- Switch output devices as soon as you pick one from the dropdown.
+- Switch input devices as soon as you pick one from the dropdown.
 - Set all Windows audio roles at once for the chosen device.
 - Keep the window pinned above other windows with `Pin on top`.
 - Refresh the device list on demand.
